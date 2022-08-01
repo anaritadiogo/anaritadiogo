@@ -23,7 +23,7 @@ I love to **travel** ✈️, **read** fiction from all around the world 📚 and
 
 ***
 
-#### 🔗 Links
+### 🔗 Links
 
 ![https://www.linkedin.com/in/anaritadiogo/](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)
 ![https://anaritadiogo.github.io/](https://img.shields.io/badge/GitHub-222222?style=for-the-badge&logo=GitHub&logoColor=white)
